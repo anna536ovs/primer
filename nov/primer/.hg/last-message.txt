@@ -1,1 +1,0 @@
-Закрытие ветки feature-branch
