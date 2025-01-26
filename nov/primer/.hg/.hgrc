@@ -1,0 +1,8 @@
+[paths]
+default = https://github.com/anna536ovs/primer.git
+
+[extensions]
+hggit =
+
+[ui]
+username = Anna <anna536ovs>
